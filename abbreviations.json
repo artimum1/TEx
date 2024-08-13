@@ -1,0 +1,30 @@
+{
+    "--smile": {
+        "replacement": "😊",
+        "ignored": false
+    },
+    "--thumbs_up": {
+        "replacement": "👍",
+        "ignored": false
+    },
+    "--heart": {
+        "replacement": "❤️",
+        "ignored": false
+    },
+    "--wink": {
+        "replacement": "😉",
+        "ignored": false
+    },
+    "--laugh": {
+        "replacement": "😂",
+        "ignored": false
+    },
+    "--sunglasses": {
+        "replacement": "😎",
+        "ignored": false
+    },
+    "--cry": {
+        "replacement": "😢",
+        "ignored": false
+    }
+}
