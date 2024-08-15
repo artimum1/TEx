@@ -9,9 +9,9 @@ and here is a very simple application with TKinter & Keyboard.
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required libraries.
 
-`bash
+```Bash
 pip install customtkinter pillow pystray keyboard
-`
+```
 I will add more features in the future\
 I wanna add more pages, and better prefix management, better UI maybe\
 and most importantly I want to add more default pages
